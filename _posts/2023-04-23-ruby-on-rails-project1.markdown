@@ -8,14 +8,16 @@ fig-caption: # Add figcaption (optional)
 tags: [Ruby on Rails]
 ---
 
-## Repo
-[https://github.com/kiwiFella/RoR_addressBook_project](https://github.com/kiwiFella/RoR_addressBook_project)
- 
 ## Overview
-This project creates a simple address book app. 
+This project is a basic intro into Rails, it creates a simple address book app. 
 The App shows a table of all the address entries, along with a single page to view each entry.
 It uses basic user authentication to create private address book entries for each user_id.
 Each user can only read, update & delete their own address book records.
+
+
+## Code Repo
+[https://github.com/kiwiFella/RoR_addressBook_project](https://github.com/kiwiFella/RoR_addressBook_project)
+ 
 
 
 ## What I learnt during this project:
@@ -36,20 +38,20 @@ Each user can only read, update & delete their own address book records.
 
 ## Screenshots
 
-![I and My friends]({{site.baseurl}}/assets/img/rails-1/1.friends.png)
+![Screenshot-1]({{site.baseurl}}/assets/img/rails-1/1.friends.png)
 >Screenshot of the main table listing all the entries in the address book.
 
-![I and My friends]({{site.baseurl}}/assets/img/rails-1/2.create.png)
+![Screenshot-2]({{site.baseurl}}/assets/img/rails-1/2.create.png)
 >Screenshot of the form to create new entry.
 
-![I and My friends]({{site.baseurl}}/assets/img/rails-1/3.created.png)
+![Screenshot-3]({{site.baseurl}}/assets/img/rails-1/3.created.png)
 >Screenshot of the individual item page, plus showcasing the alert/notice messaging after successfully adding new person to address book.
 
-![I and My friends]({{site.baseurl}}/assets/img/rails-1/4.sign-in.png)
+![Screenshot-4]({{site.baseurl}}/assets/img/rails-1/4.sign-in.png)
 >Screenshot showing secure sign-in form.
 
-![I and My friends]({{site.baseurl}}/assets/img/rails-1/5.edit-profile.png)
+![Screenshot-5]({{site.baseurl}}/assets/img/rails-1/5.edit-profile.png)
 >Screenshot of the form to manage users account.
 
-![I and My friends]({{site.baseurl}}/assets/img/rails-1/6.sign-out.png)
+![Screenshot-6]({{site.baseurl}}/assets/img/rails-1/6.sign-out.png)
 >Screenshot showing sign out, redirect to index page and alert messaging .
