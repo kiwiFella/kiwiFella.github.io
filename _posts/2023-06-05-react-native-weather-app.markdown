@@ -5,7 +5,7 @@ date: 2023-06-05 13:32:20 +0300
 description: React-Native & Expo Project - Weather App. # Add post description (optional)
 img: expo-4.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [React-Native, Expo, App]
+tags: [React-Native]
 ---
 
 ## Overview
