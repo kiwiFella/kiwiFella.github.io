@@ -34,16 +34,16 @@ The third screen uses the native geolocation information from the Mobile device 
 
 ## Screenshots
 
-![Screenshot-1]({{site.baseurl}}/assets/img/expo-1/1.current.png)
+![Screenshot-1]({{site.baseurl}}/assets/img/expo-1/expo-1.png)
 >Screenshot of the first screen showing the current weather - background, icon and messages change depending on the weather API's wetaher type (eg. Raining, suny, windy, snow, etc).
 
-![Screenshot-2]({{site.baseurl}}/assets/img/expo-1/2.forecast.png)
+![Screenshot-2]({{site.baseurl}}/assets/img/expo-1/expo-2.png)
 >Screenshot of the second screen - a five day forcast at 3 hour intervals - uses a react-native flat list component and updates icon to match the weather type.
 
-![Screenshot-3]({{site.baseurl}}/assets/img/expo-1/3.geo.png)
+![Screenshot-3]({{site.baseurl}}/assets/img/expo-1/expo-3.png)
 >Screenshot of the third screen asking the user for app permission to access device geolocation.
 
-![Screenshot-4]({{site.baseurl}}/assets/img/expo-1/4.city.png)
+![Screenshot-4]({{site.baseurl}}/assets/img/expo-1/expo-4.png)
 >Screenshot of third screen showing location information (note: default simulator location is San Francisco).
 
 
